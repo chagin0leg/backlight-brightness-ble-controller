@@ -1,16 +1,11 @@
 # backlight_brightness_ble_controller
 
-A new Flutter project.
+A Flutter pet-project for control BLE LED-strip from dependencies of desktop display backlight level
 
-## Getting Started
+## Application Icon
 
-This project is a starting point for a Flutter application.
+For regenerate application icon, run:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```shell
+flutter pub run flutter_launcher_icons
+```
